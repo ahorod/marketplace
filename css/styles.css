@@ -1,0 +1,18 @@
+#form{
+  display: none;
+}
+
+img {
+  float: left;
+  width: 60%;
+  max-height: 100%;
+  margin: 10px;
+}
+
+#letter{
+  border: 2px solid;
+
+}
+h1{
+  font-family: cursive;
+}
